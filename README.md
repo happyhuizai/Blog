@@ -16,3 +16,6 @@
 ### thress.js
 1. http://www.yanhuangxueyuan.com/Three.js/
 2. http://www.yanhuangxueyuan.com/threejs/docs/index.html
+
+### js
+1. http://bonsaiden.github.io/JavaScript-Garden/zh/#function.this
